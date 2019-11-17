@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="QuizApp.Pages.QuizPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="25,50">
+                <StackLayout VerticalOptions="StartAndExpand">
+                    <Label Text=" " x:Name="CorrectnessMessage"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text=""  x:Name="Stats"/>
+                        <Label Text="" TextColor="Green" x:Name="RightAnswers"/>
+                        <Label Text="" TextColor="Red" x:Name="WrongAnswers"/>
+                    </StackLayout>
+
+                    <Image Source="{Binding imageUrl}"
+               HeightRequest="100" />
+                    <Label Text="{Binding questionMessage}"></Label>
+
+                    <StackLayout x:Name="Buttons">
+                        <Button Text="{Binding Options[0]}" x:Name="Answer1" Clicked="Answer1_Clicked"></Button>
+                        <Button Text="{Binding Options[1]}" x:Name="Answer2" Clicked="Answer2_Clicked"></Button>
+                        <Button Text="{Binding Options[2]}" x:Name="Answer3" Clicked="Answer3_Clicked"></Button>
+                        <Button Text="{Binding Options[3]}" x:Name="Answer4" Clicked="Answer4_Clicked"></Button>
+                        <Button Text="{Binding Options[4]}" x:Name="Answer5" Clicked="Answer5_Clicked"></Button>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout VerticalOptions="End">
+                    <Button Text="Main Menu" Clicked="MainMenu_Clicked"></Button>
+
+                </StackLayout>
+
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

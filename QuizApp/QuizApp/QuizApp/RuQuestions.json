@@ -1,0 +1,430 @@
+﻿{
+  "Questions": [
+    {
+      "id": "0",
+      "category": "AB",
+      "imageUrl": "https://i.ibb.co/yyj4ZxF/brick-wall-red-color-wide-260nw-609284660.png",
+
+      "questionMessage": "В ситуации, показанной на рисунке, водитель легкового автомобиля должен:",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "1",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "2",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "3",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "4",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "1",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "2",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "3",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "4",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "1",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "2",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "3",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "4",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "1",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "2",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "3",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "4",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "5",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "6",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "cQuestion",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "7",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "cQuestion",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "8",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "C2",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "9",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "cQuestio1",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "10",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "cQuestion2",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "11",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "C3",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "12",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "C4",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "13",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "C5",
+      "Options": [ "1.  Снизить скорость и продолжить движение с особой осторожностью.", "2. Подать звуковой сигнал и продолжить движение не снижая скорости.", "3. Незамедлительно остановиться на сигнал слепого пешехода, переходящего дорогу." ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "14",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "15",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "16",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "17",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "18",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "19",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "20",
+      "category": "C",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "21",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "22",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "23",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "24",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "25",
+      "category": "AB",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "26",
+      "category": "с",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "26",
+      "category": "с",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "26",
+      "category": "с",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "26",
+      "category": "с",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "26",
+      "category": "с",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "26",
+      "category": "с",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "26",
+      "category": "с",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "26",
+      "category": "с",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    },
+    {
+      "id": "26",
+      "category": "с",
+      "imageUrl": "Ravi Tamada",
+      "questionMessage": "ravi@gmail.com",
+      "Options": [ "1. Mesaj 1", "2. Mesaj 2", "mesaj 3" ],
+      "RightAnswer": "3",
+      "Explanation": "Explicatie"
+    }
+
+  ]
+}  
+

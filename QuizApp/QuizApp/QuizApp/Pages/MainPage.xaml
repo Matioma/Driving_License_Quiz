@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="QuizApp.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" Padding="30,30">
+                <Picker x:Name="LanguageSelection" SelectedIndex="{Binding Language, Mode=TwoWay}"  HorizontalOptions="FillAndExpand">
+                    <Picker.Items>
+                        <x:String>Ro</x:String>
+                        <x:String>Ru</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Label Text="Language"/>
+            </StackLayout>
+            <StackLayout VerticalOptions="CenterAndExpand" Padding="50,50">
+                <Label Text="Driving License"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="Large" />
+                <Button Text="Take test" Clicked="TakeTest_Clicked"></Button>
+                <Button Text="Practice" Clicked="Practice_Clicked"></Button>
+            
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
